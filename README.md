@@ -32,8 +32,6 @@ La base de datos utilizada es `api_login` y contiene la tabla `usuarios`.
 
 Las credenciales de conexión a MySQL se configuran mediante variables de entorno en el archivo `.env`.
 
-Por seguridad, este archivo no se incluye en el repositorio.
-
 ## Instalación
 
 Ejecutar en la terminal:
